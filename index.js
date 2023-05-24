@@ -11,7 +11,7 @@ let li = document.createElement('li');
 li.innerHTML = " Spinach";
 document.getElementById('vegList').appendChild(li)
 
-let fruList = document.createElement('ul');
-ul.innerHTML = " Oranges";
-document.getElementById('fruList').appendChild(ul)
+let list = document.createElement('list');
+list.innerHTML = " Oranges";
+document.getElementById('fruList').appendChild(list)
 
